@@ -1,0 +1,15 @@
+D:\Новая папка\Practika1\Practika1\bin\Debug\net6.0\Practika1.exe
+D:\Новая папка\Practika1\Practika1\bin\Debug\net6.0\Practika1.deps.json
+D:\Новая папка\Practika1\Practika1\bin\Debug\net6.0\Practika1.runtimeconfig.json
+D:\Новая папка\Practika1\Practika1\bin\Debug\net6.0\Practika1.dll
+D:\Новая папка\Practika1\Practika1\bin\Debug\net6.0\Practika1.pdb
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\Practika1.csproj.AssemblyReference.cache
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\Practika1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\Practika1.AssemblyInfoInputs.cache
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\Practika1.AssemblyInfo.cs
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\Practika1.csproj.CoreCompileInputs.cache
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\Practika1.dll
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\refint\Practika1.dll
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\Practika1.pdb
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\Practika1.genruntimeconfig.cache
+D:\Новая папка\Practika1\Practika1\obj\Debug\net6.0\ref\Practika1.dll

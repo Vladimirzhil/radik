@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Practika1</id>
+    <version>1.0.0</version>
+    <authors>Practika1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Новая папка\Practika1\Practika1\bin\Debug\net6.0\Practika1.runtimeconfig.json" target="lib\net6.0\Practika1.runtimeconfig.json" />
+    <file src="D:\Новая папка\Practika1\Practika1\bin\Debug\net6.0\Practika1.dll" target="lib\net6.0\Practika1.dll" />
+  </files>
+</package>
